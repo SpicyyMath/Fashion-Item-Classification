@@ -44,8 +44,8 @@ First, clone the repository and install the required dependencies. It's recommen
 
 ```bash
 # Clone the repository
-git clone [Your GitHub Repository URL]
-cd [Your Repository Name]
+git clone https://github.com/SpicyyMath/Fashion-Item-Classification
+cd Fashion-Item-Classification
 
 # Install dependencies
 pip install -r requirements.txt
